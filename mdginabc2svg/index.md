@@ -8,8 +8,7 @@
 	svg {display:block}
 </style>
 <title>K516f-189874916791621</title>
-</head>
-<body bgcolor='#ffffff'>
+
 <center>
 %abc-2.2
 %<![CDATA[
