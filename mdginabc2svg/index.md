@@ -1,9 +1,9 @@
 ## mdginabc2svg.sh
 
 <center>
-<script src='js/abc2svg-1.js' type='text/javascript'></script>
-<script src='js/abcemb-1.js' type='text/javascript'></script>
-<script src='js/play-1.js' type='text/javascript'></script>
+<script src='./samples/js/abc2svg-1.js' type='text/javascript'></script>
+<script src='./samples/js/abcemb-1.js' type='text/javascript'></script>
+<script src='./samples/js/play-1.js' type='text/javascript'></script>
 <style type='text/css'>
 	svg {display:block}
 </style>
