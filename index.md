@@ -27,7 +27,8 @@ Syntax highlighted code block
 ```
 
 ### Test for link to folder1
-Test for file [one.html](./folder1/one.html) in fodler1.
+Test for file [one.html](./folder1/one.html) in folder1.
+Test for file [index.md](./folder1/index.md) in folder1.
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
