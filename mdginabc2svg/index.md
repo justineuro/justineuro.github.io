@@ -1,7 +1,6 @@
 ## An MDG minuet created by `mdginabc2svg.sh`
-Clicking (tapping for mobile users) will consequently play the music. 
+Clicking (tapping for mobile users) on image will consequently play the music. 
 
-<center>
 <script src='./samples/js/abc2svg-1.js' type='text/javascript'></script>
 <script src='./samples/js/abcemb-1.js' type='text/javascript'></script>
 <script src='./samples/js/play-1.js' type='text/javascript'></script>
