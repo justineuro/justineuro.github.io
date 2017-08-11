@@ -12,7 +12,7 @@ Clicking (tapping for mobile users) on image will consequently play the music.
 %abc-2.2
 %<![CDATA[
 %%scale 0.75
-%%pagewidth 24cm
+%%pagewidth 21cm
 %%bgcolor white
 %%topspace 0
 %%composerspace 0
