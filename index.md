@@ -1,3 +1,7 @@
+## Welcome to the GitHub Pages of justineuro
+- [index.md](./zTestFiles/folder1/index.md)
+- [one.html](./zTestFiles/folder1/one.html)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/justineuro/justineuro.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -25,12 +29,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-### Test for link to folder1
-Test for file [one.html](./folder1/one.html) in folder1.
-Test for file [index.md](./folder1/index.md) in folder1.
-
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
