@@ -26,4 +26,4 @@
 
 ## The Jekyll Theme
 - [index.md](./pages-theme-slate/index.md)
-- [README.md](./pages-them-slate/README.md)
+- [README.md](./pages-theme-slate/README.md)
