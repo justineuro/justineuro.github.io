@@ -1,40 +1,29 @@
 ## Welcome to the GitHub Pages of justineuro
+
+### Statistics
+- [`sdRplot`](https://github.com/justineuro/sdRplot) - **R** script for generating Semantic Differential (SD) plots  
+
+
+### Musical Dice Games
+- [`mdgBookSVGKit`](https://github.com/justineuro/mdgBookSVGKit) - One-Command Kit for Creating MDG Minuets Collection Book
+- [`mdgBookSVG_1`](https://github.com/justineuro/mdgBookSVG_1) - Creating your own Musical Dice Games (MDG) Minuets Collection Book
+- [`mdg2abc`](https://justineuro.github.io/mdg2abc/) -  Bash script for generating Musical Dice Game minuets (based on K. 516f, Mozart); `ABC`, `PS`, `PDF`, `SVG`, `MIDI`
+- [`mdginabc2svg`](https://justineuro.github.io/mdginabc2svg/) - Bash script for generating Musical Dice Games minuets (based on K. 516f, Mozart); `XHTML`
+
+
+* * *
+
+## Beta Pages
 - [index.md](./zTestFiles/folder1/index.md)
 - [one.html](./zTestFiles/folder1/one.html)
 
-## Welcome to GitHub Pages
+* * *
 
-You can use the [editor on GitHub](https://github.com/justineuro/justineuro.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Default Welcome Page
+- [index.md](./index-def.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* * *
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/justineuro/justineuro.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## The Jekyll Theme
+- [index.md](./page-theme-slate/index.md)
+- [README.md](./page-them-slate/README.md)
