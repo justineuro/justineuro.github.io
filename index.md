@@ -13,6 +13,9 @@
 ### Tic-Tac-Toe
 - [tic-tac-toe](https://justineuro.github.io/tic-tac-toe/) - Bash script implementation of the famous Tic-Tac-Toe (Noughts-and-Crosses) Game.
 
+### Graphics
+- [Animated GIFs](https://justineuro.github.io/animatedGIFs) - using `convert` (from [ImageMagick](https://www.imagemagick.org/)) and `gifsicle` (from [Gifsicle](https://www.lcdf.org/gifsicle/)) to create animated GIFs 
+
 
 * * *
 
