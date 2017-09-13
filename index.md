@@ -16,7 +16,6 @@
 ### Graphics
 - [Animated GIFs](https://justineuro.github.io/animatedGIFs) - using `convert` (from [ImageMagick](https://www.imagemagick.org/)) and `gifsicle` (from [Gifsicle](https://www.lcdf.org/gifsicle/)) to create animated GIFs 
 
-
 * * *
 
 ## Beta Pages
