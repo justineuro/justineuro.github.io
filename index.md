@@ -27,3 +27,17 @@
 ## The Jekyll Theme
 - [index.md](./pages-theme-slate/index.md)
 - [README.md](./pages-theme-slate/README/README.md)
+
+### Additional GitHub Pages Themes
+- [Primer](https://pages-themes.github.io/primer/)
+- [Hacker](https://pages-themes.github.io/hacker/)
+- [Midnight](https://pages-themes.github.io/midnight/)
+- [Minimal](https://pages-themes.github.io/minimal/)
+- [Dinky](https://pages-themes.github.io/dinky/)
+- [Leap Day](https://pages-themes.github.io/leap-day/)
+- [Time Machine](https://pages-themes.github.io/time-machine/)
+- [Tactile](https://pages-themes.github.io/tactile/)
+- [Architect](https://pages-themes.github.io/architect/)
+- [Cayman](https://pages-themes.github.io/cayman/)
+- [Modernist](https://pages-themes.github.io/modernist/)
+- [Merlot](https://pages-themes.github.io/merlot/)
