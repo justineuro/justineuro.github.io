@@ -29,7 +29,7 @@
 - [README.md](./pages-theme-slate/README/README.md)
 
 ### Additional GitHub Pages Themes
-Index is at https://github.com/pages-themes.
+Index is at [https://github.com/pages-themes](https://github.com/pages-themes).
 
 - [Primer](https://pages-themes.github.io/primer/)
 - [Hacker](https://pages-themes.github.io/hacker/)
