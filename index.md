@@ -11,7 +11,7 @@
 - [mdginabc2svg](https://justineuro.github.io/mdginabc2svg/) - Bash script for generating Musical Dice Games minuets (based on K. 516f, Mozart); `XHTML`
 
 ### Tic-Tac-Toe
--[tic-tac-toe](https://justineuro.github.io/tic-tac-toe/) - Bash script implementation of the famous Tic-Tac-Toe (Noughts-and-Crosses) Game.
+- [tic-tac-toe](https://justineuro.github.io/tic-tac-toe/) - Bash script implementation of the famous Tic-Tac-Toe (Noughts-and-Crosses) Game.
 
 
 * * *
