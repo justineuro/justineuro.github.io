@@ -4,7 +4,12 @@
 - [sdRplot](https://github.com/justineuro/sdRplot) - **R** script for generating Semantic Differential (SD) plots  
 
 
-### Musical Dice Games
+## Music
+
+#### Hymns
+- [Marche Pontificale](https://github.com/justineuro/MP) - The Pontifical (Papal) Anthem
+
+#### Musical Dice Games
 - [mdgBookSVGKit](https://github.com/justineuro/mdgBookSVGKit) - One-Command Kit for Creating MDG Minuets Collection Book
 - [mdgBookSVG_1](https://github.com/justineuro/mdgBookSVG_1) - Creating your own Musical Dice Games (MDG) Minuets Collection Book
 - [mdg2abc](https://justineuro.github.io/mdg2abc/) -  Bash script for generating Musical Dice Game minuets (based on K. 516f, Mozart); `ABC`, `PS`, `PDF`, `SVG`, `MIDI`
