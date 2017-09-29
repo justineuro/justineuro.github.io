@@ -7,11 +7,11 @@
 ## Music
 
 #### Hymns
-- [Marche Pontificale](https://github.com/justineuro/MP) - The Pontifical (Papal) Anthem
+- [Marche Pontificale](https://justineuro.github.io/MP) - The Pontifical (Papal) Anthem
 
 #### Musical Dice Games
-- [mdgBookSVGKit](https://github.com/justineuro/mdgBookSVGKit) - One-Command Kit for Creating MDG Minuets Collection Book
-- [mdgBookSVG_1](https://github.com/justineuro/mdgBookSVG_1) - Creating your own Musical Dice Games (MDG) Minuets Collection Book
+- [mdgBookSVGKit](https://justineuro.github.io/mdgBookSVGKit) - One-Command Kit for Creating MDG Minuets Collection Book
+- [mdgBookSVG_1](https://justineuro.github.io/mdgBookSVG_1) - Creating your own Musical Dice Games (MDG) Minuets Collection Book
 - [mdg2abc](https://justineuro.github.io/mdg2abc/) -  Bash script for generating Musical Dice Game minuets (based on K. 516f, Mozart); `ABC`, `PS`, `PDF`, `SVG`, `MIDI`
 - [mdginabc2svg](https://justineuro.github.io/mdginabc2svg/) - Bash script for generating Musical Dice Games minuets (based on K. 516f, Mozart); `XHTML`
 
