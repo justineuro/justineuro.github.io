@@ -1,7 +1,7 @@
 ## Welcome to the GitHub Pages of justineuro
 
 ### Statistics
-- [sdRplot](https://github.com/justineuro/sdRplot) - **R** script for generating Semantic Differential (SD) plots  
+- [sdRplot](https://justineuro.github.io/sdRplot) - **R** script for generating Semantic Differential (SD) plots  
 
 
 ## Music
