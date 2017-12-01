@@ -1,10 +1,15 @@
 ## Welcome to the GitHub Pages of justineuro
 
+### Mathematics
+- [mtap](https://justineuro.github.io/mtap/) - a repository of past MTAP exams andd reviewers
+- [mtapR](https://justineuro.github.io/mtapR/) - an R-rendered website similar to [mtap](https://justineuro.github.io/mtap/)
+- [mtapR-src](https://justineuro.github.io/mtap-src/) - source files to build an Android app similar to [mtapR](https://justineuro.github.io/mtapR/)
+
 ### Statistics
 - [sdRplot](https://justineuro.github.io/sdRplot) - **R** script for generating Semantic Differential (SD) plots  
 
 
-## Music
+### Music
 
 #### Hymns
 - [Marche Pontificale](https://justineuro.github.io/MP) - The Pontifical (Papal) Anthem
