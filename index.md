@@ -1,7 +1,7 @@
 ## Welcome to the GitHub Pages of justineuro
 
 ### Mathematics
-- [mtap](https://justineuro.github.io/mtap/) - a repository of past MTAP exams andd reviewers
+- [mtap](https://justineuro.github.io/mtap/) - a repository of past MTAP exams and reviewers
 - [mtapR](https://justineuro.github.io/mtapR/) - an R-rendered website similar to [mtap](https://justineuro.github.io/mtap/)
 - [mtapR-src](https://justineuro.github.io/mtapR-src/) - source files to build an Android app similar to [mtapR](https://justineuro.github.io/mtapR/)
 
