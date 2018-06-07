@@ -8,6 +8,8 @@
 ### Statistics
 - [sdRplot](https://justineuro.github.io/sdRplot/) - **R** script for generating Semantic Differential (SD) plots  
 
+### Esperanto
+- [TEO](https://justineuro.github.io/TEO/docs/) - an enhancement of an HTML version of the book [_The Esperanto Teacher, A Simple Course for Non-Grammarians (10th ed.)_](https://www.gutenberg.org/files/8177/8177-h/8177-h.htm) by Helen Fryer; generated using [Rmarkdown](http://rmarkdown.rstudio.com)
 
 ### Music
 
