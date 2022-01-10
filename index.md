@@ -4,7 +4,7 @@
 - [**mcBibleQuiz**](https://justineuro.github.io/mcBibleQuiz) - a **multiple-choice question-and-answer** familiarizer to [**Holy Scriptures**](https://en.wikipedia.org/wiki/Bible). 
 - [**BibleQuiz**](https://justineuro.github.io/BibleQuiz) - a **question-and-answer** familiarizer to [**Holy Scriptures**](https://en.wikipedia.org/wiki/Bible).  A pre-release Android app is available: [biblequiz-v.0.0.1-pre-release.apk](https://github.com/justineuro/BibleQuiz/releases/download/pre-release-v.0.0.1/biblequiz-v.0.0.1-pre-release.apk).  The `src` folder used in making the Android app is available at [**BibleQuiz-src**](https://justineuro.github.io/BibleQuiz-src).
 - [**mcQuiz**](https://justineuro.github.io/mcQuiz) - a **multiple-choice question-and-answer** web app.  
--  [**mcQuiz-tz-aes**](https://justineuro.github.io/mcQuiz-tz-aes) - a version of [**mcQuiz**](https://justineuro.github.io/mcQuiz) that uses [TeXZilla](https://github.com/fred-wang/TeXZilla) to render mathematics and [Crypto.js](https://code.google.com/p/crypto-js) to AES-encrypt the question-and-answer data. 
+-  [**mcQuiz-tz-aes**](https://justineuro.github.io/mcQuiz-tz-aes) - a version of [**mcQuiz**](https://justineuro.github.io/mcQuiz) that uses [TeXZilla](https://github.com/fred-wang/TeXZilla) to render mathematics and [Crypto.js](https://code.google.com/p/crypto-js) to AES-encrypt the question-and-answer data. [TeXZilla](https://github.com/fred-wang/TeXZilla) rendering of math expressions works only on Mozilla browsers (e.g., Firefox and Seamonkey). 
 
 ### Mathematics
 - [mtap](https://justineuro.github.io/mtap/) - a repository of past MTAP exams and reviewers
