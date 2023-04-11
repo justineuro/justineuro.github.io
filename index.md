@@ -52,8 +52,9 @@
 - [README.md](./pages-theme-slate/README/README.md)
 
 ### Additional GitHub Pages Themes
-Index is at [https://github.com/pages-themes](https://github.com/pages-themes).
-
+Index is at [https://github.com/pages-themes](https://github.com/pages-themes).  
+The GitHub Pages theme used for this site is [Slate](https://pages-themes.github.io/slate/).
+Other available themes to choose from are:  
 - [Primer](https://pages-themes.github.io/primer/)
 - [Hacker](https://pages-themes.github.io/hacker/)
 - [Midnight](https://pages-themes.github.io/midnight/)
@@ -66,4 +67,4 @@ Index is at [https://github.com/pages-themes](https://github.com/pages-themes).
 - [Cayman](https://pages-themes.github.io/cayman/)
 - [Modernist](https://pages-themes.github.io/modernist/)
 - [Merlot](https://pages-themes.github.io/merlot/)
-- [Slate](https://pages-themes.github.io/slate/)
+
