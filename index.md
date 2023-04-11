@@ -66,3 +66,4 @@ Index is at [https://github.com/pages-themes](https://github.com/pages-themes).
 - [Cayman](https://pages-themes.github.io/cayman/)
 - [Modernist](https://pages-themes.github.io/modernist/)
 - [Merlot](https://pages-themes.github.io/merlot/)
+- [Slate](https://pages-themes.github.io/slate/)
