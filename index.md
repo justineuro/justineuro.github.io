@@ -25,7 +25,7 @@ an LMS by using a browser
 - [ww2-collegeAlgebra-exers](https://github.com/justineuroPT/ww2-collegeAlgebra-exers) - a compilation, written in [PreTeXt](https://pretextbook.org/), of the homework exercise sets from
 WeBWorK2's Model College Algebra course 
 - [mtap](https://justineuro.github.io/mtap/) - a repository of past [MTAP](https://justineuro.github.io/mtap/) exams and reviewers
-- [mtapR](https://justineuro.github.io/mtapR/) - an [R]((https://cran.r-project.org/))-rendered website similar to [mtap](https://justineuro.github.io/mtap/)
+- [mtapR](https://justineuro.github.io/mtapR/) - an [R](https://cran.r-project.org/)-rendered website similar to [mtap](https://justineuro.github.io/mtap/)
 - [mtapR-src](https://justineuro.github.io/mtapR-src/) - source files to build an Android app similar to [mtapR](https://justineuro.github.io/mtapR/)
 
 ### Statistics
