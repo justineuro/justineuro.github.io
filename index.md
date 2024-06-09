@@ -29,6 +29,7 @@ WeBWorK2's Model College Algebra course
 - [mtapR-src](https://justineuro.github.io/mtapR-src/) - source files to build an Android app similar to [mtapR](https://justineuro.github.io/mtapR/)
 
 ### Statistics
+- [sdRgraph](https://justineuro.github.io/sdRgrah/) - an [**R**](https://cran.r-project.org/) package for generating Semantic Differential (SD) plots; contains the [`sdRplot`](https://justineuro.github.io/sdRplot/) function
 - [sdRplot](https://justineuro.github.io/sdRplot/) - [**R**](https://cran.r-project.org/) script for generating Semantic Differential (SD) plots  
 
 ### Esperanto
