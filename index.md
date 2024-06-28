@@ -41,10 +41,11 @@ WeBWorK2's Model College Algebra course
 - [Marche Pontificale](https://justineuro.github.io/MP) - The Pontifical (Papal) Anthem
 
 #### Musical Dice Games
-- [mdgBookSVGKit](https://justineuro.github.io/mdgBookSVGKit) - One-Command Kit for Creating MDG Minuets Collection Book
-- [mdgBookSVG_1](https://justineuro.github.io/mdgBookSVG_1) - Creating your own Musical Dice Games (MDG) Minuets Collection Book
-- [mdg2abc](https://justineuro.github.io/mdg2abc/) -  Bash script for generating Musical Dice Game minuets (based on K. 516f, Mozart); `ABC`, `PS`, `PDF`, `SVG`, `MIDI`
-- [mdginabc2svg](https://justineuro.github.io/mdginabc2svg/) - Bash script for generating Musical Dice Games minuets (based on K. 516f, Mozart); `XHTML`
+- [mdgBookSVGKit](https://justineuro.github.io/mdgBookSVGKit) - One-Command Kit for Creating MDG Minuets Collection Book, the minuets generated based on the rules given in  [*Musikalisches Würfelspiel, K.516f* (Mozart, Wolfgang Amadeus)](http://imslp.org/wiki/Musikalisches_W%C3%BCrfelspiel,_K.516f_(Mozart,_Wolfgang_Amadeus))
+- [mdgBookSVG4Kit](https://justineuro.github.io/mdgBookSVGKit) - One-Command Kit for Creating MDG Minuet-Trios Collection Book, the minuet-trios generated based on the rules given in [*Table pour composer des Minuets et des Trios &agrave; la infinie*](http://imslp.org/wiki/Table_pour_composer_des_Minuets_et_des_Trios_%C3%A0_la_infinie_(Stadler,_Maximilian)) (also known as or *Tabelle welcher aus man unzählige Menuetten und Trio für das Klavier herauswürfeln kann* or *Gioco Filermonico o sia maniera facile per comporre un infinito numero di menuetti e trio, anche senza sapere il contrapunto*) 
+- [mdgBookSVG_1](https://justineuro.github.io/mdgBookSVG_1) - Creating your own Musical Dice Games (MDG) Minuets Collection Book 
+- [mdg2abc](https://justineuro.github.io/mdg2abc/) -  Bash script for generating Musical Dice Game minuets (based on K. 516f, Mozart); uses `ABC`, `PS`, `PDF`, `SVG`, `MIDI` 
+- [mdginabc2svg](https://justineuro.github.io/mdginabc2svg/) - Bash script for generating Musical Dice Games minuets (based on K. 516f, Mozart); uses `XHTML` 
 
 ### Tic-Tac-Toe
 - [tic-tac-toe](https://justineuro.github.io/tic-tac-toe/) - Bash script implementation of the famous Tic-Tac-Toe (Noughts-and-Crosses) Game.
