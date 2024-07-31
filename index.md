@@ -29,6 +29,7 @@ WeBWorK2's Model College Algebra course
 - [mtapR-src](https://justineuro.github.io/mtapR-src/) - source files to build an Android app similar to [mtapR](https://justineuro.github.io/mtapR/)
 
 ### Statistics
+- [MGB-sols](https://justineuro.github.io/MGB-sols/) - repository for a partial solutions manual to _Introduction to the Theory of Statistics 3rd ed._ (1974) by A.M. Mood, F.A. Graybill, and D.C. Boes 
 - [sdRgraph](https://justineuro.github.io/sdRgraph/) - an [**R**](https://cran.r-project.org/) package for generating Semantic Differential (SD) plots; contains the [`sdRplot`](https://justineuro.github.io/sdRplot/) function
 - [sdRplot](https://justineuro.github.io/sdRplot/) - [**R**](https://cran.r-project.org/) script for generating Semantic Differential (SD) plots  
 
