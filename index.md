@@ -20,6 +20,7 @@ using the [H5P Question Set template](https://h5p.org/question-set) via the Linu
 - [h5p-mcq-maker-fb](https://github.com/justineuro/h5p-mcq-maker-fb) - similar to [h5p-mcq-maker](https://github.com/justineuro/h5p-mcq-maker) but with feedback on responses
 - [h5p-LET-GenEd-Math](https://github.com/justineuro/h5p-LET-GenEd-Math) - contains seven (7) [H5P](https://h5p.org/)s of math quiz reviewers that may be viewed external to
 an LMS by using a browser
+- [h5p-LET-GenEd-Math-HTML](https://github.com/justineuro/h5p-LET-GenEd-Math-HTML) - similar in content to [h5p-LET-GenEd-Math](https://github.com/justineuro/h5p-LET-GenEd-Math).  However, here, the seven (7) [H5P](https://h5p.org)s that are included in [h5p-LET-GenEd-Math](https://github.com/justineuro/h5p-LET-GenEd-Math)  (all of which are also included in this repository) were loaded into the [Lumi](https://app.lumi.education/) app and then exported as `HTML`, as opposed to making them accessible by using [h5p-standalone v.3.7.0](https://github.com/tunapanda/h5p-standalone), as was done in [h5p-LET-GenEd-Math](https://github.com/justineuro/h5p-LET-GenEd-Math). Doing so, makes these [H5P](https://h5p.org)s easier to view in a simple browser.
 
 ### Mathematics
 - [ww2-collegeAlgebra-exers](https://github.com/justineuroPT/ww2-collegeAlgebra-exers) - a compilation, written in [PreTeXt](https://pretextbook.org/), of the homework exercise sets from
