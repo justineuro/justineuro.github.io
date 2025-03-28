@@ -6,6 +6,9 @@
 - [**mcQuiz**](https://justineuro.github.io/mcQuiz) - a **multiple-choice question-and-answer** web app.  
 -  [**mcQuiz-tz-aes**](https://justineuro.github.io/mcQuiz-tz-aes) - a version of [**mcQuiz**](https://justineuro.github.io/mcQuiz) that uses [TeXZilla](https://github.com/fred-wang/TeXZilla) to render mathematics and [Crypto.js](https://code.google.com/p/crypto-js) to AES-encrypt the question-and-answer data. [TeXZilla](https://github.com/fred-wang/TeXZilla) rendering of math expressions works only on Mozilla browsers (e.g., Firefox and Seamonkey). 
 
+### Logic
+- [syllogisms](https://github.com/justineuro/syllogisms) - a repository containing files related to using an algorithmic truth table method (ATTM) for verifying the validity of arguments forms  
+
 ### [H5P](https://h5p.org/)
 - [h5p-view](https://github.com/justineuro/h5p-view) - a bash script that
 processes (through a Linux command line) for viewing/playing, [H5P](https://h5p.org/) zipped files by
