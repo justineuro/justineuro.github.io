@@ -69,8 +69,8 @@ WeBWorK2's Model College Algebra course
 * * *
 
 ## Beta Pages
-- [index.md](./zTestFiles/folder1/index.md): for testing the link https://justineuro.github.io/zTestFiles/folder1/
-- [one.html](./zTestFiles/folder1/one.html): for testing the link https://justineuro.github.io/zTestFiles/folder1/one.html
+- [index.md](./zTestFiles/folder1/index.md): for testing the link [https://justineuro.github.io/zTestFiles/folder1/](https://justineuro.github.io/zTestFiles/folder1/)
+- [one.html](./zTestFiles/folder1/one.html): for testing the link [https://justineuro.github.io/zTestFiles/folder1/one.html](https://justineuro.github.io/zTestFiles/folder1/one.html)
 
 * * *
 
