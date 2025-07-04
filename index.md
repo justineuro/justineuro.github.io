@@ -90,6 +90,7 @@ Other available themes to choose from are:
 - [Primer](https://pages-themes.github.io/primer/)
 - [Hacker](https://pages-themes.github.io/hacker/)
 - [Midnight](https://pages-themes.github.io/midnight/)
+- [Minima](https://pages-themes.github.io/minima/) with options: `classic`, `auto`, `solarized`, `solarized-light`, `solarized-dark`, `dark`
 - [Minimal](https://pages-themes.github.io/minimal/)
 - [Dinky](https://pages-themes.github.io/dinky/)
 - [Leap Day](https://pages-themes.github.io/leap-day/)
