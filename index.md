@@ -79,18 +79,19 @@ WeBWorK2's Model College Algebra course
 
 * * *
 
-## The Jekyll Theme
+## The Jekyll Slate Theme
 - [index.md](./pages-theme-slate/index.md)
 - [README.md](./pages-theme-slate/README/README.md)
 
 ### Additional GitHub Pages Themes
 Index is at [https://github.com/pages-themes](https://github.com/pages-themes).  
-The GitHub Pages theme used for this site is [Slate](https://pages-themes.github.io/slate/).
-Other available themes to choose from are:  
+One more theme: ([`minima`](https://github.com/jekyll/minima)), is provided in the list at [https://pages.github.com/themes/](https://pages.github.com/themes/).  
+The GitHub Pages theme used for this site is [Slate](https://pages-themes.github.io/slate/).  
+Other available themes to choose from are thus:  
 - [Primer](https://pages-themes.github.io/primer/)
 - [Hacker](https://pages-themes.github.io/hacker/)
 - [Midnight](https://pages-themes.github.io/midnight/)
-- [Minima](https://pages-themes.github.io/minima/) with options: `classic`, `auto`, `solarized`, `solarized-light`, `solarized-dark`, `dark`
+- [Minima](https://jekyll.github.io/minima/) w/ options: `classic`, `auto`, `solarized`, `solarized-light`, `solarized-dark`, and `dark`
 - [Minimal](https://pages-themes.github.io/minimal/)
 - [Dinky](https://pages-themes.github.io/dinky/)
 - [Leap Day](https://pages-themes.github.io/leap-day/)
