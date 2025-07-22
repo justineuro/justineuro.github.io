@@ -1,4 +1,4 @@
-## Welcome to the GitHub Pages of justineuro
+## Welcome to the [GitHub Pages](https://pages.github.com/) of [justineuro](https://github.com/justineuro)
 
 ### Quiz Apps
 - [**mcBibleQuiz**](https://justineuro.github.io/mcBibleQuiz) - a **multiple-choice question-and-answer** familiarizer to [**Holy Scriptures**](https://en.wikipedia.org/wiki/Bible). 
