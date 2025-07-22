@@ -32,10 +32,13 @@ WeBWorK2's Model College Algebra course
 - [mtapR](https://justineuro.github.io/mtapR/) - an [R](https://cran.r-project.org/)-rendered website similar to [mtap](https://justineuro.github.io/mtap/)
 - [mtapR-src](https://justineuro.github.io/mtapR-src/) - source files to build an Android app similar to [mtapR](https://justineuro.github.io/mtapR/)
 
-### Statistics
+### (Bio-)Statistics
 - [MGB-sols](https://justineuro.github.io/MGB-sols/) - repository for a partial solutions manual to _Introduction to the Theory of Statistics 3rd ed._ (1974) by A.M. Mood, F.A. Graybill, and D.C. Boes 
 - [sdRgraph](https://justineuro.github.io/sdRgraph/) - an [**R**](https://cran.r-project.org/) package for generating Semantic Differential (SD) plots; contains the [`sdRplot`](https://justineuro.github.io/sdRplot/) function
 - [sdRplot](https://justineuro.github.io/sdRplot/) - [**R**](https://cran.r-project.org/) script for generating Semantic Differential (SD) plots  
+- [sdRgraph-shiny-app-beta](https://justineuro.github.io/sdRgraph-shiny-app-beta/) - [**R**](https://cran.r-project.org/) [`shiny`](https://shiny.posit.co/) app for creating simple Semantic Differential (SD) plots; this app is hosted in the [Posit Connect Cloud](https://connect.posit.cloud/) at: [url](https://connect.posit.cloud/juro/content/0197d30e-597e-9d51-9fe2-97777081acb6)
+- [KM-bias](https://github.com/justineuro/KM-bias) - a repository that contains [Maple](https://www.maplesoft.com/) codes, [Maxima](https://maxima.sourceforge.io/) codes, and a [Jupyter Notebook](https://jupyter.org/) for computing the small-sample bias of the [Kaplan-Meier estimator](https://en.wikipedia.org/wiki/Kaplan%E2%80%93Meier_estimator); based on the article "Exact Calculation of the Kaplan-Meier Bias Using Maple Software" (Gillespie, B. and J. Uro, 1993) that appeared in _Mathematical Computation with Maple V: Ideas and Applications (Proceedings of the 1993 Maple Summer Workshop and Symposium)_, pp. 128-136.  
+
 
 ### Esperanto
 - [TEO](https://justineuro.github.io/TEO/docs/) - an enhancement of an HTML version of the book [_The Esperanto Teacher, A Simple Course for Non-Grammarians (10th ed.)_](https://www.gutenberg.org/files/8177/8177-h/8177-h.htm) by Helen Fryer; generated using [Rmarkdown](http://rmarkdown.rstudio.com)
