@@ -10,7 +10,7 @@
 - [syllogisms](https://github.com/justineuro/syllogisms) - a repository containing files related to using an algorithmic truth table method (ATTM) for verifying the validity of arguments forms  
 
 ### [H5P](https://h5p.org/)
-- [h5p-trigo-ids] - contains [H5Ps](https://h5p.org) that may be used to aid in learning trigonometric identities. Among the H5P types that are included so far are [Memory Games](https://h5p.org/memory-game), [Dialog Cards](https://h5p.org/dialog-cards), [Drag-the-Words](https://h5p.org/drag-the-words)
+- [h5p-trigo-ids](https://github.com/justineuro/h5p-trigo-ids) - contains [H5Ps](https://h5p.org) that may be used to aid in learning trigonometric identities. Among the H5P types that are included so far are [Memory Games](https://h5p.org/memory-game), [Dialog Cards](https://h5p.org/dialog-cards), [Drag-the-Words](https://h5p.org/drag-the-words)
 - [h5p-mcq-maker](https://github.com/justineuro/h5p-mcq-maker) - a bash script for creating an [H5P](https://h5p.org/) of multiple-choice questions (with a single correct answer) using the [H5P Question Set template](https://h5p.org/question-set) via the Linux command line
 - [h5p-mcq-maker-fb](https://github.com/justineuro/h5p-mcq-maker-fb) - similar to [h5p-mcq-maker](https://github.com/justineuro/h5p-mcq-maker) but with feedback on responses
 - [h5p-LET-GenEd-Math](https://github.com/justineuro/h5p-LET-GenEd-Math) - contains seven (7) [H5P](https://h5p.org/)s of math quiz reviewers that may be viewed external to an LMS by using a browser
